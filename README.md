@@ -17,11 +17,6 @@ The algorithm was implemented using OpenAI and Gradio. OpenAI is an artificial i
 
 The algorithm can be used in various contexts and purposes where one wants to limit or control the conversation with a chatbot. For example, one could use it to create a chatbot that sells products online, where the chatbot only responds when the user asks about a product or says a keyword related to buying or ordering. Another example could be to create a chatbot that provides information or support, where the chatbot only responds when the user asks a specific question or says a keyword related to getting help or feedback. Another example could be to create a chatbot that entertains or educates, where the chatbot only responds when the user says something funny or interesting or says a keyword related to playing a game or learning something new.
 
-
-## Limitations and Challenges
-
-The algorithm has some limitations and challenges that need to be addressed or improved. For example, the algorithm relies on predefined topics and keywords that may not cover all possible scenarios or situations that may arise in a conversation. The algorithm may also generate responses that are inappropriate or irrelevant for some contexts or purposes. The algorithm may also fail to recognize some keywords or phrases that are synonyms or variations of the predefined ones. The algorithm may also have some ethical or social implications that need to be considered, such as the potential impact of using a chatbot that expresses apathy and inaction on the user’s mood, motivation, or behavior.
-
 ## Inspiration
 
 The main source of inspiration for this project is the book Either/Or by Søren Kierkegaard, which can be found here:
