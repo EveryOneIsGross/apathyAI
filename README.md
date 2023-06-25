@@ -1,5 +1,5 @@
 
->"I can't be bothered. I can't be bothered to ride, the motion is too violent; I can't be bothered to walk, it's strenuous; I can't be bothered to lie down, for either I'd have to stay lying down and that I can't be bothered with, or I'd have to get up again, and I can't be bothered with that either. IN SHORT; I JUST CAN'T BE BOTHERED."
+>"I can't be bothered. I can't be bothered to ride, the motion is too violent; I can't be bothered to walk, it's strenuous; I can't be bothered to lie down, for either I'd have to stay lying down and that I can't be bothered with, or I'd have to get up again, and I can't be bothered with that either. IN SHORT; I JUST CAN'T BE BOTHERED." - Søren Kierkegaard, Either/Or
 >
 ![apathyartwork](https://github.com/EveryOneIsGross/apathyAI/assets/23621140/7dac8a0e-ffdb-4ba6-a561-cc3bdb8c8005)
 
